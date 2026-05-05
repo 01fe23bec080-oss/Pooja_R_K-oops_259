@@ -29,7 +29,7 @@ int main()
     int a = 5;
     float b = 5.5;
 
-    Display obj;  // Create object of class
+    Display obj;
 
     obj.display(a);
     obj.display(b);
